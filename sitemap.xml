@@ -1,15 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://bitailab.github.io/basics/index.html</loc>
-  </url>
-  <url>
-    <loc>http://bitailab.github.io/categories/index.html</loc>
-  </url>
-  <url>
-    <loc>http://bitailab.github.io/index.html</loc>
-  </url>
-  <url>
-    <loc>http://bitailab.github.io/tags/index.html</loc>
+    <loc>https://ai.bitailab.com/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ai.bitailab.com/tags/first/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ai.bitailab.com/posts/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ai.bitailab.com/tags/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ai.bitailab.com/posts/ai-tech/site_about/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ai.bitailab.com/categories/</loc>
   </url>
 </urlset>
