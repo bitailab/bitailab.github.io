@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>BitAI Lab</title>
-    <link>https://ai.bitailab.com/</link>
-    <description>Recent content on BitAI Lab</description>
+    <title>AIGC on BitAI Lab</title>
+    <link>https://ai.bitailab.com/categories/aigc/</link>
+    <description>Recent content in AIGC on BitAI Lab</description>
     <image>
       <title>BitAI Lab</title>
       <url>https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F32762402&amp;psig=AOvVaw3PwXurKZJJeEa4rdoAhccA&amp;ust=1708333901030000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBIQjRxqFwoTCJi5-evFtIQDFQAAAAAdAAAAABAE</url>
@@ -12,20 +12,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 Feb 2024 13:05:11 +0800</lastBuildDate>
-    <atom:link href="https://ai.bitailab.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ai.bitailab.com/categories/aigc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sora概述</title>
       <link>https://ai.bitailab.com/posts/ai-tech/sora_overview/</link>
       <pubDate>Mon, 19 Feb 2024 13:05:11 +0800</pubDate>
       <guid>https://ai.bitailab.com/posts/ai-tech/sora_overview/</guid>
       <description>Sora基本技术指南 是一个扩散模型，通过多次去噪迭代产生视频，基础原理和stable diffusion类似 通过一次多帧预测技术，解决临时离开视野的主体如何保持一致性的难题 和GPT类似，模型也使用了transformer架构 提出Patch概念，它类似Chat-GPT中的token，是视频的一个数据单元集合。通过这个统一的数据集合，可以在比以前更广泛的视觉数据上训练扩散变换器，涵盖不同的持续时间、分辨率和纵横比 建立在过去对 DALL·E 和 GPT 模型的研究之上，它使用 DALL·E 3 的重述技术，该技术涉及为视觉训练数据生成高度描述性的标题。 因此，该模型能够更忠实地遵循用户的文本指令生成视频 Sora目前的状态 在进行Sora的危害和风险评估 只提供给少量外部用户进行测试和反馈 主要面向艺术家、电影制片人、设计师这几个领域 Sora的能力 具有强大的语言理解能力，通过文字生成视频 不仅能根据用户输入的文字生成视频，同时能理解物体在现实世界中是如何存在的，生成合理的视频 在单个视频中生成多角度镜头，同时准确地保留角色和视觉风格 能够获取现有的静态图像并从中生成视频，准确地动画图像的内容并关注小细节 可以获取现有视频并对其进行扩展或填充缺失的帧 除了能够仅根据文本指令生成视频之外，该模型还能够获取现有的静态图像并从中生成视频，准确地动画图像的内容并关注小细节。 该模型还可以获取现有视频并对其进行扩展或填充缺失的帧 Sora的弱点 无法准确模拟复杂的物理原理和因果关系，例如一个人咬了一口饼干，但是饼干上没有咬痕 该模型还可能会混淆提示的空间细节，例如混淆左右，并且可能难以精确描述随着时间推移发生的事件，例如遵循特定的相机轨迹 Sora的安全性 正在对模型进行对抗性测试，在错误信息、仇恨内容和偏见等领域由相应的专家进行验证 构建工具来自动检测Sora生成的视频，并计划将来产品上线时包含C2PA元数据 将参考现有的DALL·E 3安全方案 附录 Creating Video From Text</description>
-    </item>
-    <item>
-      <title>本站简介 </title>
-      <link>https://ai.bitailab.com/posts/ai-tech/site_about/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://ai.bitailab.com/posts/ai-tech/site_about/</guid>
-      <description>Desc Text.</description>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 19 Feb 2024 13:05:11 +0800</lastBuildDate>
     <atom:link href="https://ai.bitailab.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://ai.bitailab.com/categories/ai/</link>
+      <pubDate>Mon, 19 Feb 2024 13:05:11 +0800</pubDate>
+      <guid>https://ai.bitailab.com/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AIGC</title>
+      <link>https://ai.bitailab.com/categories/aigc/</link>
+      <pubDate>Mon, 19 Feb 2024 13:05:11 +0800</pubDate>
+      <guid>https://ai.bitailab.com/categories/aigc/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
